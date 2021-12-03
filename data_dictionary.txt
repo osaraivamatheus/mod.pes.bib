@@ -1,0 +1,8 @@
+endividamento: 
+Conceito: Comprometimento de renda - Relação entre o valor correspondente aos pagamentos esperados para o serviço da dívida com o Sistema Financeiro Nacional e a renda mensal das famílias, em média móvel trimestral, ajustado sazonalmente.
+
+desocupação:
+
+é a porcentagem de pessoas na força de trabalho que estão desempregadas. O desemprego, de forma simplificada, se refere às pessoas com idade para trabalhar (acima de 14 anos) que não estão trabalhando, mas estão disponíveis e tentam encontrar trabalho. Assim, para alguém ser considerado desempregado, não basta não possuir um emprego.
+
+vcmh:
